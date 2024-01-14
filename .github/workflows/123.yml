@@ -82,7 +82,7 @@ jobs:
         echo "CONFIG_FIRMWARE_INCLUDE_V2RAY=y" >> .config
         echo "CONFIG_FIRMWARE_INCLUDE_XRAY=y" >> .config
         #echo "CONFIG_FIRMWARE_INCLUDE_TROJAN=y" >> .config 
-        echo "CONFIG_FIRMWARE_INCLUDE_SSOBFS=y" >> .config
+        #echo "CONFIG_FIRMWARE_INCLUDE_SSOBFS=y" >> .config
         echo "CONFIG_FIRMWARE_INCLUDE_SSSERVER=y" >> .config #SS server
         ##vpn
         #echo  "CONFIG_FIRMWARE_INCLUDE_OPENVPN=y" >> .config
